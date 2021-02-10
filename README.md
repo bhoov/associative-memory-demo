@@ -1,8 +1,11 @@
 # Associative Memory Demo
 
-A demo created with [Pluto.jl](https://github.com/fonsp/Pluto.jl) for rapid prototyping, high interactibility, and full transparency.
+Explore how thinking of AI as an Associative Memory task simplifies and generalizes many of the desirable aspects of modern Machine Learning.
+
+A demo created with [Pluto.jl](https://github.com/fonsp/Pluto.jl).
 
 Math and inspiration taken from the [Hopfield Networks is All You Need Blog](https://ml-jku.github.io/hopfield-layers/)
+
 
 ## Getting Started
 To use this interactive notebook, you'll have to use [Julia](https://julialang.org/downloads/) >= 1.5. Thankfully, this language is rapidly growing in popularity and is designed to be simple to code in for scientists and mathematicians.
